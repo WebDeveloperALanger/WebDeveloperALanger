@@ -79,6 +79,7 @@
 just email me: 
 [ALangerWebDev@gmail.com](mailto:ALangerWebDev@gmail.com?subject=[GitHub])
 
+<a href="https://www.zend-zce.com/en/yellow-pages/ZEND022047" target="_blank">Zend Certified Engineer</a>
 
 <!---
 WebDeveloperALanger/WebDeveloperALanger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
