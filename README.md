@@ -21,6 +21,7 @@
 - npx
 - webpack
 - JSON
+- JSON Web Token jwt.io
 
 ### HTML / CSS
 - HTML5
