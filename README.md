@@ -40,6 +40,11 @@
 - SCP
 - SSH
 
+### server
+- apache
+- nginx
+- CORS
+
 ### version control
 - Git
 - GitLab
@@ -53,13 +58,17 @@
 - MacOS
 - Linux
 
+### IDE's
+- JetBrains IDE's
+  - PHPStorm
+  - WebStorm
+  - DataGrip
+  - PyCharm
+- NetBeans
+
 ## 🌱 I’m currently learning
 - React Native
 - Python
-
-### IDE's
-- JetBrains IDE's (PHPStorm, WebStorm, DataGrip, etc.)
-
 
 ## 💞️ I’m looking to collaborate 
 - on a challenging project
