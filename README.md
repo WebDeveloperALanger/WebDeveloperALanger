@@ -33,6 +33,7 @@
 - MS Access
 - XML
 - JSON
+- CSV
 
 ### protocols
 - HTTP(S)
