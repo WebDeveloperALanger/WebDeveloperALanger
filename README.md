@@ -1,6 +1,15 @@
-- 👋 Hi, I’m @WebDeveloperALanger
+👋 Hi, I’m @WebDeveloperALanger, Software Engineer Web Technologies, feel free to contact me.
 
-# 👀 technologies I've worked with
+
+# Technologies I currently work with
+- Vue.js
+- Vuetify
+- PHP
+
+# Current fun project
+- [MariaDB 2 Obsidian Markdown](https://github.com/WebDeveloperALanger/MariaDB2ObsidianMarkdown)
+
+# Technologies I've worked with
 
 ### PHP
 - PHP OOP (5.x-8.x)
@@ -68,8 +77,7 @@
 - NetBeans
 
 ## 🌱 I’m currently learning
-- React Native
-- Python
+- React & React Native
 
 ## 💞️ I’m looking to collaborate 
 - on a challenging project
