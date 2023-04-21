@@ -84,9 +84,17 @@
 - with professional developers
 
 
-## 📫 How to reach me
+## 📫 How you can reach me
 just email me: 
 [ALangerWebDev@gmail.com](mailto:ALangerWebDev@gmail.com?subject=[GitHub])
+
+## Online profiles
+  - [GitHub](https://github.com/WebDeveloperALanger)
+  - [Stack Overflow](https://stackoverflow.com/users/9572523/alwebdev)
+  - [LinkedIn](https://www.linkedin.com/in/Andre-Langer-Web-Developer)
+  - [Twitter](https://twitter.com/ALangerWebDev)
+  - [Google Developers](https://g.dev/AndreLanger)
+
 
 <!---
 WebDeveloperALanger/WebDeveloperALanger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
