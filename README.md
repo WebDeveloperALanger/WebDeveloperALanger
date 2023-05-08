@@ -6,9 +6,6 @@
 - Vuetify
 - PHP
 
-# Current fun project
-- [MariaDB 2 Obsidian Markdown](https://github.com/WebDeveloperALanger/MariaDB2ObsidianMarkdown)
-
 # Technologies I've worked with
 
 ### PHP
@@ -77,7 +74,7 @@
 - NetBeans
 
 ## 🌱 I’m currently learning
-- React & React Native
+- preparing for vue.js certification https://certification.vuejs.org/
 
 ## 💞️ I’m looking to collaborate 
 - on a challenging project
