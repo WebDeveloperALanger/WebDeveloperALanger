@@ -96,10 +96,10 @@
 
 - preparing for vue.js certification https://certification.vuejs.org/
 
-## 💞️ I’m looking to collaborate
+## 🚀️ I Want to Work With
 
-- on a challenging project
-- with professional developers
+- Cool projects that make me think hard and learn new things
+- Other coders who love learning and working as a team to make great software
 
 ## 📫 How you can reach me
 
