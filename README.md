@@ -1,7 +1,7 @@
 👋 Hi, I’m @WebDeveloperALanger, Software Engineer Web Technologies, feel free to contact me.
 
-
 # Technologies I currently work with
+
 - Vue.js
 - Vuetify
 - PHP
@@ -9,6 +9,7 @@
 # Technologies I've worked with
 
 ### PHP
+
 - PHP OOP (5.x-8.x)
 - Doctrine ORM
 - Symfony
@@ -16,6 +17,7 @@
 - [Zend Certified Engineer](https://www.zend-zce.com/en/yellow-pages/ZEND022047)
 
 ### JavaScript
+
 - JavaScript (ES6/Next Gen)
 - jQuery
 - Ext.js (for Shopware 5 Backend Plugin's)
@@ -26,15 +28,18 @@
 - npm
 - npx
 - webpack
+- vite
 - JSON
 - JSON Web Token jwt.io
 
 ### HTML / CSS
+
 - HTML5
 - Bootstrap
-- CSS (less, Sass)
+- CSS (less, Sass/Scss)
 
 ### data
+
 - MySQL, MariaDB (InnoDB, MyISAM)
 - MS Access
 - XML
@@ -42,56 +47,72 @@
 - CSV
 
 ### protocols
+
 - HTTP(S)
 - (S)FTP
 - SCP
 - SSH
 
 ### server
+
 - apache
 - nginx
 - CORS
 
 ### version control
+
 - Git
 - GitLab
 - GitHub
 
 ### error tracking
+
 - Sentry
 
 ### operating systems
-- Windows 
+
+- Windows
 - MacOS
 - Linux
 
 ### IDE's
+
+#### current choice
+
 - JetBrains IDE's
-  - PHPStorm
-  - WebStorm
-  - DataGrip
-  - PyCharm
+    - PHPStorm
+    - WebStorm
+    - DataGrip
+    - PyCharm
+    - IntelliJ Ultimate
+
+#### previously worked with
+
+- Zend Studio
 - NetBeans
+- Eclipse
 
 ## 🌱 I’m currently learning
+
 - preparing for vue.js certification https://certification.vuejs.org/
 
-## 💞️ I’m looking to collaborate 
+## 💞️ I’m looking to collaborate
+
 - on a challenging project
 - with professional developers
 
-
 ## 📫 How you can reach me
-just email me: 
+
+just email me:
 [ALangerWebDev@gmail.com](mailto:ALangerWebDev@gmail.com?subject=[GitHub])
 
 ## Online profiles
-  - [GitHub](https://github.com/WebDeveloperALanger)
-  - [Stack Overflow](https://stackoverflow.com/users/9572523/alwebdev)
-  - [LinkedIn](https://www.linkedin.com/in/Andre-Langer-Web-Developer)
-  - [Twitter](https://twitter.com/ALangerWebDev)
-  - [Google Developers](https://g.dev/AndreLanger)
 
+- [GitHub](https://github.com/WebDeveloperALanger)
+- [Stack Overflow](https://stackoverflow.com/users/9572523/alwebdev)
+- [LinkedIn](https://www.linkedin.com/in/Andre-Langer-Web-Developer)
+- [Twitter](https://twitter.com/ALangerWebDev)
+- [Google Developers](https://g.dev/AndreLanger)
 
 <!---
 WebDeveloperALanger/WebDeveloperALanger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
