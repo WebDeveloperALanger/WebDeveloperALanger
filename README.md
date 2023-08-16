@@ -92,6 +92,14 @@
 - NetBeans
 - Eclipse
 
+## Certificates
+
+### 2013 🧐 
+Back when I was young and just a few commits old!
+
+[![Zend Certified Engineer ZCE PHP5-3 Logo](https://raw.githubusercontent.com/WebDeveloperALanger/WebDeveloperALanger/ee6744053f1072d7d00d65c8bc2749a440278c2e/ZCE-PHP5-3-logo-XS.jpg)](https://github.com/WebDeveloperALanger/WebDeveloperALanger/blob/main/2013_04_13_Zend_Certified_Engineer-GitHub-protected.pdf)
+
+
 ## 🌱 I’m currently learning
 
 - preparing for vue.js certification https://certification.vuejs.org/
