@@ -8,7 +8,7 @@ Feel free to contact me.
 
 ## 🌟 Technologies I Currently Work With
 
-- **Frontend**: Vue.js, Vuetify, Pinia, Vue Router, TypeScript, Axios, Sass/SCSS, JWT
+- **Frontend**: SPA (Single Page Applications), Vue.js, Vuetify, Pinia, Vue Router, TypeScript, Axios, Sass/SCSS, JWT
 - **Backend**: PHP, MariaDB
 
 ---
@@ -77,6 +77,15 @@ Back when I was young and just a few commits old!
 
 ---
 
+## 🎓 Education
+
+### Computer Science Expert | Subject Area: Software Development
+### Fachinformatiker | Fachrichtung: Anwendungsentwicklung
+
+[Prüfungszeugnis | Examination Certificate](https://github.com/WebDeveloperALanger/WebDeveloperALanger/blob/main/Fachinformatiker-Fachrichtung-Anwendungsentwicklung_Pr%FCfungszeugnis_Computer-Science-Expert--Subject-Area-Software-Development_Examination-Certificate_Andre-Langer_public-shared.pdf)
+
+---
+
 ## 🌱 Currently Learning
 
 - Preparing for [Vue.js Certification](https://certification.vuejs.org/)
@@ -103,6 +112,12 @@ Just email me at: [ALangerWebDev@gmail.com](mailto:ALangerWebDev@gmail.com?subje
 - [LinkedIn](https://www.linkedin.com/in/Andre-Langer-Web-Developer)
 - [Twitter](https://twitter.com/ALangerWebDev)
 - [Google Developers](https://g.dev/AndreLanger)
+
+
+## 📌 Note
+
+Although I don't use GitHub regularly, my contributions and work are consistent and impactful in other environments and repositories. Please feel free to explore my skills and experiences outlined above.
+
 
 <!---
 WebDeveloperALanger/WebDeveloperALanger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
