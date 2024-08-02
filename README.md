@@ -1,120 +1,102 @@
-👋 Hi, I’m @WebDeveloperALanger, Software Engineer Web Technologies, feel free to contact me.
+# 👋 Hi, I’m @WebDeveloperALanger
 
-# Technologies I currently work with
+### Software Engineer | Web Technologies
 
-- Vue.js
-- Vuetify
-- PHP
+Feel free to contact me.
 
-# Technologies I've worked with
+---
+
+## 🌟 Technologies I Currently Work With
+
+- **Frontend**: Vue.js, Vuetify, Pinia, Vue Router, TypeScript, Axios, Sass/SCSS, JWT
+- **Backend**: PHP, MariaDB
+
+---
+
+## 🔧 Technologies I've Worked With
 
 ### PHP
 
-- PHP OOP (5.x-8.x)
-- Doctrine ORM
-- Symfony
-- Laravel
+- OOP (5.x-8.x), Doctrine ORM, Symfony, Laravel
 - [Zend Certified Engineer](https://github.com/WebDeveloperALanger/WebDeveloperALanger/blob/main/2013_04_13_Zend_Certified_Engineer-GitHub-protected.pdf)
 
 ### JavaScript
 
-- JavaScript (ES6/Next Gen)
-- jQuery
-- Ext.js (for Shopware 5 Backend Plugin's)
-- Vue.js
-- vuetify
-- React.js
-- Node.js
-- npm
-- npx
-- webpack
-- vite
-- JSON
-- JSON Web Token jwt.io
+- Vue.js, Vuetify, React.js, Node.js
+- npm, npx, webpack, vite
+- JSON, JSON Web Token
+- ES6/Next Gen, jQuery, Ext.js (Shopware 5 Backend Plugins)
 
 ### HTML / CSS
 
-- HTML5
-- Bootstrap
-- CSS (less, Sass/Scss)
+- HTML5, Bootstrap, CSS (LESS, Sass/SCSS)
 
-### data
+### Data
 
-- MySQL, MariaDB (InnoDB, MyISAM)
-- MS Access
-- XML
-- JSON
-- CSV
+- MySQL, MariaDB (InnoDB, MyISAM), MS Access
+- XML, JSON, CSV
 
-### protocols
+### Protocols
 
-- HTTP(S)
-- (S)FTP
-- SCP
-- SSH
+- HTTP(S), (S)FTP, SCP, SSH
 
-### server
+### Server
 
-- apache
-- nginx
-- CORS
+- Apache, Nginx, CORS
 
-### version control
+### Version Control
 
-- Git
-- GitLab
-- GitHub
+- Git, GitLab, GitHub
 
-### error tracking
+### Error Tracking
 
 - Sentry
 
-### operating systems
+### Operating Systems
 
-- Windows
-- MacOS
-- Linux
+- Windows, MacOS, Linux
 
-### IDE's
+### IDEs
 
-#### current choice
+#### Current Choice
 
-- JetBrains IDE's
-    - PHPStorm
-    - WebStorm
-    - DataGrip
-    - PyCharm
-    - IntelliJ Ultimate
+- JetBrains IDEs: PHPStorm, WebStorm, DataGrip, PyCharm, IntelliJ Ultimate
 
-#### previously worked with
+#### Previously Worked With
 
-- Zend Studio
-- NetBeans
-- Eclipse
+- Zend Studio, NetBeans, Eclipse
 
-## Certificates
+---
 
-### 2013 🧐 
+## 📜 Certificates
+
+### 2013 🧐
 Back when I was young and just a few commits old!
 
 [![Zend Certified Engineer ZCE PHP5-3 Logo](https://raw.githubusercontent.com/WebDeveloperALanger/WebDeveloperALanger/ee6744053f1072d7d00d65c8bc2749a440278c2e/ZCE-PHP5-3-logo-XS.jpg)](https://github.com/WebDeveloperALanger/WebDeveloperALanger/blob/main/2013_04_13_Zend_Certified_Engineer-GitHub-protected.pdf)
 
+---
 
-## 🌱 I’m currently learning
+## 🌱 Currently Learning
 
-- preparing for vue.js certification https://certification.vuejs.org/
+- Preparing for [Vue.js Certification](https://certification.vuejs.org/)
+
+---
 
 ## 🚀️ I Want to Work With
 
-- Cool projects that make me think hard and learn new things
-- Other coders who love learning and working as a team to make great software
+- Cool projects that challenge me and help me learn new things
+- Other coders who love learning and working as a team to create great software
 
-## 📫 How you can reach me
+---
 
-just email me:
-[ALangerWebDev@gmail.com](mailto:ALangerWebDev@gmail.com?subject=[GitHub])
+## 📫 How to Reach Me
 
-## Online profiles
+Just email me at: [ALangerWebDev@gmail.com](mailto:ALangerWebDev@gmail.com?subject=[GitHub])
+
+---
+
+## 🌐 Online Profiles
 
 - [GitHub](https://github.com/WebDeveloperALanger)
 - [Stack Overflow](https://stackoverflow.com/users/9572523/alwebdev)
