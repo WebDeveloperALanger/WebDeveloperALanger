@@ -82,7 +82,7 @@ Back when I was young and just a few commits old!
 ### Computer Science Expert | Subject Area: Software Development
 ### Fachinformatiker | Fachrichtung: Anwendungsentwicklung
 
-[Prüfungszeugnis | Examination Certificate](https://github.com/WebDeveloperALanger/WebDeveloperALanger/blob/main/Fachinformatiker-Fachrichtung-Anwendungsentwicklung_Pr%FCfungszeugnis_Computer-Science-Expert--Subject-Area-Software-Development_Examination-Certificate_Andre-Langer_public-shared.pdf)
+[Prüfungszeugnis | Examination Certificate](https://github.com/WebDeveloperALanger/WebDeveloperALanger/blob/main/Fachinformatiker-Fachrichtung-Anwendungsentwicklung_Prüfungszeugnis_Computer-Science-Expert--Subject-Area-Software-Development_Examination-Certificate_Andre-Langer_public-shared.pdf)
 
 ---
 
