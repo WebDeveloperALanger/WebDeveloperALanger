@@ -15,17 +15,17 @@ Feel free to contact me.
 
 ## 🔧 Technologies I've Worked With
 
-### PHP
-
-- OOP (5.x-8.x), Doctrine ORM, Symfony, Laravel
-- [Zend Certified Engineer](https://github.com/WebDeveloperALanger/WebDeveloperALanger/blob/main/2013_04_13_Zend_Certified_Engineer-GitHub-protected.pdf)
-
 ### JavaScript
 
 - Vue.js, Vuetify, React.js, Node.js
 - npm, npx, webpack, vite
 - JSON, JSON Web Token
 - ES6/Next Gen, jQuery, Ext.js (Shopware 5 Backend Plugins)
+
+### PHP
+
+- OOP (5.x-8.x), Doctrine ORM, Symfony, Laravel
+- [Zend Certified Engineer](https://github.com/WebDeveloperALanger/WebDeveloperALanger/blob/main/2013_04_13_Zend_Certified_Engineer-GitHub-protected.pdf)
 
 ### HTML / CSS
 
