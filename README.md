@@ -1,8 +1,7 @@
 # 👋 Hi, I’m @WebDeveloperALanger
 
-### Software Engineer | Web Technologies
-
-Feel free to contact me.
+### Software Engineer | Web Technologies Enthusiast
+I’m a passionate developer who loves building efficient, user-friendly web solutions. Feel free to contact me!
 
 ---
 
@@ -62,7 +61,7 @@ Feel free to contact me.
 
 #### Current Choice
 
-- JetBrains IDEs: PHPStorm, WebStorm, DataGrip, PyCharm, IntelliJ Ultimate
+- JetBrains IDEs: PhpStorm, WebStorm, DataGrip, PyCharm, IntelliJ Ultimate
 
 #### Previously Worked With
 
@@ -73,7 +72,7 @@ Feel free to contact me.
 ## 📜 Certificates
 
 ### 2013 🧐
-Back when I was young and just a few commits old!
+Back when I was young and green in coding!
 
 [![Zend Certified Engineer ZCE PHP5-3 Logo](https://raw.githubusercontent.com/WebDeveloperALanger/WebDeveloperALanger/ee6744053f1072d7d00d65c8bc2749a440278c2e/ZCE-PHP5-3-logo-XS.jpg)](https://github.com/WebDeveloperALanger/WebDeveloperALanger/blob/main/2013_04_13_Zend_Certified_Engineer-GitHub-protected.pdf)
 
@@ -96,14 +95,15 @@ Back when I was young and just a few commits old!
 
 ## 🚀️ I Want to Work With
 
-- Cool projects that challenge me and help me learn new things
+- Projects that make me say "Wow, I built that!"
 - Other coders who love learning and working as a team to create great software
 
 ---
 
 ## 📫 How to Reach Me
 
-Just email me at: [ALangerWebDev@gmail.com](mailto:ALangerWebDev@gmail.com?subject=[GitHub])
+Got a project idea? 
+Email me at [ALangerWebDev@gmail.com](mailto:ALangerWebDev@gmail.com?subject=[GitHub]) – I’d love to chat!
 
 ---
 
