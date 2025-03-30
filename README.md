@@ -8,8 +8,9 @@ Feel free to contact me.
 
 ## 🌟 Technologies I Currently Work With
 
-- **Frontend**: SPA (Single Page Applications), Vue.js, Vuetify, Pinia, Vue Router, TypeScript, Axios, Sass/SCSS, JWT
-- **Backend**: PHP, MariaDB
+- **Frontend**: SPA (Single Page Applications), Vue.js, Vuetify, VueUse, Pinia, Vue Router, TypeScript, Axios, Sass/SCSS, JWT
+- **Backend**: PHP, PDO, MariaDB
+- **Server**: Ubuntu, Docker, Traefik
 
 ---
 
@@ -42,7 +43,8 @@ Feel free to contact me.
 
 ### Server
 
-- Apache, Nginx, CORS
+- Apache, Nginx, Traefik 
+- CORS
 
 ### Version Control
 
