@@ -5,11 +5,12 @@ I’m a passionate developer who loves building efficient, user-friendly web sol
 
 ---
 
-## 🌟 Technologies I Currently Work With
-
-- **Frontend**: SPA (Single Page Applications), Vue.js, Vuetify, VueUse, Pinia, Vue Router, TypeScript, Axios, Sass/SCSS, JWT
-- **Backend**: PHP, PDO, MariaDB
-- **Server**: Ubuntu, Docker, Traefik
+## 🌟 My Core Technologies
+These are the tools and technologies I specialize in and would love to bring to your team:
+- **Frontend**: Vue.js, TypeScript, Vuetify, Pinia, Vue Router, Sass/SCSS, Vite
+- **Backend**: PHP, PDO, MariaDB, Node.js
+- **Server**: Ubuntu, Docker, Traefik, Apache, Nginx
+- **Tools**: Git, GitLab, WebStorm, PhpStorm, ESLint, Prettier
 
 ---
 
